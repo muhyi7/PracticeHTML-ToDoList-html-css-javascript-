@@ -90,6 +90,9 @@ body {
 .todo-wrapper #save-button {
     background-color: #49B749;
 }
+#teks_tambah{
+    color: #814602;
+}
 
 @media only screen and (min-width: 1400px) {
     .todo-wrapper {
